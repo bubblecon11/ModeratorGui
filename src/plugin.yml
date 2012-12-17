@@ -6,7 +6,7 @@ description: Plugin for server moderation
 database: true
 prefix: ModGui
 commands:
-  report:
+  web:
     description: Main command for reporting moderation stuff
     permission: moderatorgui.command
     usage: /<command> help
